@@ -19,6 +19,7 @@ data/processed/*
 
 # Keep directory structure
 !data/processed/.gitkeep
+!data/processed/amazonhelp_training_135.csv
 
 # Keep golden evaluation data
 !data/golden/
@@ -31,3 +32,4 @@ data/processed/*
 # OS / editor files
 .DS_Store
 .vscode/
+

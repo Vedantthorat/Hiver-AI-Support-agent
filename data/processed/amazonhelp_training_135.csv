@@ -1,0 +1,146 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,intent
+315275,191151,True,Sat Oct 07 08:00:34 +0000 2017,@AmazonHelp @115850 thanks my query has been resolved.. 😀 Look forward to shop more,315277,315274.0,other
+668492,279394,True,Thu Nov 23 04:25:22 +0000 2017,"@AmazonHelp Then why you claim of next day delivery, stop fooling people @AmazonHelp @115850 This order was a next day delivery order, and now you request me to wait for the time frame and the irony is that you are hopeful",668494,668491.0,delivery_issue
+312989,190746,True,Sat Oct 07 07:41:25 +0000 2017,"@AmazonHelp Did while having a chat on FB, was informed will get back, nothing happened","312990,312991,312992",312987.0,complaint_or_escalation
+27898,122104,True,Wed Nov 01 11:29:39 +0000 2017,@AmazonHelp Are you going to be offering anything to your Puerto Rican customers for delayed/missing orders in the aftermath? Zero point in having prime,,27897.0,delivery_issue
+304638,124163,True,Sat Nov 04 04:13:51 +0000 2017,"@AmazonHelp Not helpful! I need the wrong shipment to be picked ASAP, not dropping it anywhere. FIX IT!",304636,304641.0,return_or_cancellation
+2676823,753387,True,Tue Oct 31 14:24:54 +0000 2017,"@AmazonHelp Yeah like I said, useless.",,2676822.0,complaint_or_escalation
+1689740,513010,True,Tue Oct 17 18:18:10 +0000 2017,@AmazonHelp Associate told me that the item wasn't @ a distribution center near me &amp; that I should know that Prime applies to date item is shipped.,1689741,1689739.0,prime_membership
+2383252,687014,True,Wed Nov 15 09:37:48 +0000 2017,"@AmazonHelp I couldn't contact due to your faulty IVRS, I only mailed them as you said, Today is my second day of wearing floaters @95892 chappals, all the staff members are staring at me and laughing behind my back, I can't bear the humiliation any more, Kindly arrange urgent replacemt",2383253,2383251.0,product_issue
+500811,234628,True,Fri Dec 01 19:43:04 +0000 2017,@AmazonHelp Yes it came today,500813,500810.0,other
+67532,131420,True,Thu Nov 30 11:57:59 +0000 2017,@AmazonHelp That link is re reporting a suspicious email?,,67531.0,technical_support
+2402359,691155,True,Tue Nov 14 14:51:12 +0000 2017,@AmazonHelp No Till now..I got my product today n when I saw its completely different from wht I've ordered. Color n quality both r disappointing,2402360,2402358.0,product_issue
+1524027,473473,True,Sat Nov 04 21:26:45 +0000 2017,@AmazonHelp Still waiting. Not what I call next day delivery.,1524028,1524025.0,delivery_issue
+1007047,358304,True,Sun Oct 22 19:47:45 +0000 2017,@AmazonHelp Si un par de mensajes y sin respuesta. No quiero la devolución quiero mi pedido. Gracias,"1007046,1007048",1007049.0,order_status
+1646273,503029,True,Mon Nov 06 19:41:53 +0000 2017,@AmazonHelp The order says it was delivered yesterday. A refund was issued.,1646275,1646272.0,refund
+2931363,810812,True,Wed Nov 29 08:44:27 +0000 2017,@AmazonHelp Just a general question. When you call Amazon and request a U. S representatives you can’t get one because the offices are closed.,2931366,2931362.0,other
+1760551,528900,True,Tue Nov 07 20:01:26 +0000 2017,@AmazonHelp I order from the uk so i guess its .co.uk,1760553,1760550.0,other
+2367957,683421,True,Mon Nov 13 23:34:34 +0000 2017,@AmazonHelp It says it shipped today… a week after release. Next time ill go to a store to buy a preordered system. Geez… https://t.co/pwVtAeyeB3,2367959,2367956.0,delivery_issue
+1078202,374354,True,Mon Oct 23 17:57:24 +0000 2017,@AmazonHelp I've already shared the details contains Amazon invoice and Apple service centre feedback. Pls check and response asap.,1078203,1078197.0,product_issue
+1232102,359661,True,Mon Oct 16 01:35:20 +0000 2017,"@AmazonHelp Is product was with me?
+Why u sent my location after cancellation of 14 hrs?
+You knew it I don't have any option for Amazon pay
+#amazonpay https://t.co/S4pWaLbPpz","1232104,1232105,1232106",1232101.0,payment_or_billing
+989115,354343,True,Sat Oct 14 11:19:59 +0000 2017,@AmazonHelp Amazon mistakenly cancelled my order. Contacted costumer ser &amp; they won't honour the original price. Please help. This is stressful.,989117,989114.0,return_or_cancellation
+833953,318598,True,Fri Oct 13 07:35:22 +0000 2017,@AmazonHelp Got this https://t.co/vO4VGU9Ksb,,833951.0,other
+372163,204169,True,Sun Oct 08 23:42:49 +0000 2017,@AmazonHelp ok! mt obrigada :),372164,372162.0,other
+442966,219986,True,Wed Nov 22 08:53:38 +0000 2017,@AmazonHelp Nope been today since it was purchased on Friday,442965,442967.0,order_status
+324446,193286,True,Sat Oct 07 15:35:58 +0000 2017,@AmazonHelp Please look at complaints registered for Order #407-4330002-1760315 @115850,"324448,324449",324445.0,complaint_or_escalation
+2808969,783399,True,Wed Nov 22 05:13:25 +0000 2017,@AmazonHelp Info provided through the link. Please let me know the phone number that will call me. I do not answer unknown numbers.,2808967,2808970.0,complaint_or_escalation
+2609953,352414,True,Fri Nov 17 13:12:05 +0000 2017,"@AmazonHelp Done, pls look into this on priority. It's for a friend's wedding which is this coming weekend",2609955,2609952.0,complaint_or_escalation
+742436,216940,True,Wed Oct 11 16:25:03 +0000 2017,"@AmazonHelp merci beaucoup. Vous êtes le meilleur site d'e-commerce, et de loin.",742437,742435.0,other
+1316007,427428,True,Mon Oct 16 11:19:52 +0000 2017,@AmazonHelp Literally the most useless response ever. Can I please direct message you?,1316009,1316006.0,complaint_or_escalation
+1376744,217980,True,Sat Oct 28 03:47:47 +0000 2017,@AmazonHelp Supposedly the chat rep I spoke to already did. I've escalated before. Nothing happens.,,1376741.0,complaint_or_escalation
+1490151,465945,True,Fri Nov 03 09:39:25 +0000 2017,@AmazonHelp @AmazonHelp Also ist es jetzt möglich oder nich das ich mein geld für den Artikel wieder bekomme?,1490152,1490150.0,refund
+2893231,801909,True,Tue Nov 28 15:19:26 +0000 2017,@AmazonHelp Si già fatto,2893230,2893232.0,other
+158792,130596,True,Fri Nov 24 18:16:17 +0000 2017,@AmazonHelp Thank you and I’ve figured it out. There are two listings for the show. One up front and that appears in searches that is 1080. One at the very back/end of the list and does not appear in searches that is UHD.,,158790.0,product_availability
+2396391,689771,True,Sun Nov 26 17:52:19 +0000 2017,@AmazonHelp I understand and thank you for prompt response!,,2396390.0,other
+1406807,446987,True,Mon Oct 30 17:54:06 +0000 2017,@AmazonHelp Thanks.,,1406806.0,other
+282796,183372,True,Fri Oct 06 13:03:51 +0000 2017,"@AmazonHelp No, I got transferred to another agent instead, and they could not explain why it had not been transferred to manager. I have transcript, if you would like it.",282797,282795.0,complaint_or_escalation
+314047,190939,True,Sat Oct 07 06:05:15 +0000 2017,@AmazonHelp Clearly couldn’t be bothered to send them so are now lying to me,,314046.0,complaint_or_escalation
+26942,121897,True,Wed Nov 01 11:37:02 +0000 2017,@AmazonHelp Ah! Found @79347 on TuneIn. Shame it won’t work via @115888 but at least it now works on the Echo. Thanks for your help!,,26937.0,technical_support
+2697149,195284,True,Sun Nov 19 19:27:23 +0000 2017,@AmazonHelp Today would have been the day it should be delivered but the tracking date now says 20-22. Now i don’t have a swimsuit for my trip so THANKS FOR NOTHING,2697151,2697148.0,delivery_issue
+2772367,774912,True,Mon Nov 27 00:34:35 +0000 2017,@AmazonHelp Aaaaaaaaaaaaaa💙,,2772363.0,other
+2531368,720486,True,Mon Oct 30 11:04:51 +0000 2017,"@AmazonHelp I don’t think so, I did order it then cancel one as I wasn’t 100%, then decided to order again. I’m guessing this is the confusion?",2531365,2531370.0,return_or_cancellation
+2373333,164356,True,Tue Nov 14 01:24:24 +0000 2017,@AmazonHelp It appears but no code,2373331,2373334.0,technical_support
+503518,235329,True,Sat Dec 02 09:43:43 +0000 2017,"@AmazonHelp @AmazonHelp @115851 @115821  , kimdly reply",,503516.0,complaint_or_escalation
+2338821,676575,True,Fri Oct 20 06:50:15 +0000 2017,@AmazonHelp I have ordered thousands of $$ worth of items on @115821 yet you have refused to refund or replace one worth about $35!!! Very wrong!!,2338828,2338816.0,refund
+2320755,672575,True,Sun Nov 26 18:32:59 +0000 2017,@AmazonHelp Payment by credit card for Prime no longer required already taken by you?,2320757,2320754.0,payment_or_billing
+1325585,429308,True,Fri Oct 27 11:20:45 +0000 2017,@AmazonHelp @AmazonHelp and @115850 I have already left a review under customer service section - delivery and package option. Please follow it.,1325587,1325584.0,delivery_issue
+333202,177543,True,Sat Oct 07 17:20:29 +0000 2017,@AmazonHelp But it should be not more than mrp.actual price of mi a1 is 14999.,"333201,333203",258865.0,payment_or_billing
+2721710,763623,True,Mon Nov 20 11:50:24 +0000 2017,@AmazonHelp Si no. No se escribiría..,,2721709.0,other
+382854,206731,True,Sat Oct 21 14:16:36 +0000 2017,@AmazonHelp Amazon. Because I can't opt out of Amazon delivery to let Ups or even USPS deliver. Amazon Fulfilment on the table.,"382853,382855",382856.0,delivery_issue
+170999,155881,True,Fri Nov 24 22:03:40 +0000 2017,"@AmazonHelp I’m sad to say it lead to few moments of false hope for me as it was exactly what I was for (the 43” model, anyway) but at least the price and model now match for all the other shoppers out there.",,170998.0,product_availability
+2584163,732298,True,Fri Nov 17 10:15:07 +0000 2017,@AmazonHelp  https://t.co/GauvEc9IgR,2584164,2584161.0,other
+1223548,216895,True,Thu Nov 16 16:45:42 +0000 2017,@AmazonHelp I don't understand how it can be estimated delivery Tuesday the 14th and the jump to the 20th for prime items.... 😤,,1223547.0,delivery_issue
+434611,218249,True,Sat Oct 14 11:46:22 +0000 2017,"@AmazonHelp DON'T BE AN IDIO IM SENDING MULTIPLE EMAILS WITH CONTACT DETAILS, CHECK BEFORE REVERTING LIKE AN IDIOTS",,434609.0,complaint_or_escalation
+461317,224607,True,Fri Dec 01 02:15:20 +0000 2017,@AmazonHelp Amazon!,,461315.0,other
+1568726,483986,True,Sat Nov 04 17:54:49 +0000 2017,@AmazonHelp I can't return the item because it was not delivered to me. I am not seeing a replace option.,1568728,1568725.0,return_or_cancellation
+1041757,366365,True,Tue Nov 21 00:54:15 +0000 2017,"@AmazonHelp No, en ningún lado indica que se realizó con meses sin intereses.
+Únicamente me hicieron el descuento del 10%",1041758,1041756.0,payment_or_billing
+857764,323706,True,Mon Nov 06 04:37:33 +0000 2017,"@AmazonHelp Device location, address are changed. I'm able to play from Saavn. But language is still in EN-US. EN-IN is not showing on the list.",857766,857763.0,technical_support
+2731115,765644,True,Mon Nov 20 15:25:32 +0000 2017,@AmazonHelp https://t.co/0pRFw0SAZY    audio between me and delivery person. @115850,,2731114.0,complaint_or_escalation
+1354501,435866,True,Fri Oct 27 18:49:52 +0000 2017,@AmazonHelp  https://t.co/3kchUqFgQg,,1354498.0,other
+114408,141430,True,Thu Nov 23 22:24:00 +0000 2017,@AmazonHelp It's a Fire HD 3rd Gen.,114409,114407.0,product_issue
+1824383,547655,True,Sun Oct 29 12:07:47 +0000 2017,@AmazonHelp 返金してもらえるのですね！やってみます！,1824385,1824382.0,refund
+979056,352188,True,Sun Oct 22 05:57:47 +0000 2017,@AmazonHelp Required details have been shared with you. Plz check and do the needful,979058,979055.0,other
+2004839,592854,True,Wed Oct 18 19:59:22 +0000 2017,@AmazonHelp Dankööö.,2004838,2004840.0,other
+480335,229161,True,Fri Dec 01 13:42:05 +0000 2017,@AmazonHelp En caso de no ser así el que se fastidia soy yo ya que tendría que esperar hasta el lunes,480337,480334.0,delivery_issue
+1239303,410697,True,Mon Nov 13 09:35:56 +0000 2017,@AmazonHelp Your customer service is lacking also. 😒😒,,1239302.0,complaint_or_escalation
+246387,174523,True,Thu Oct 05 15:32:25 +0000 2017,"@AmazonHelp @130687 Ninguna. De hecho, me pregunto si sería posible que en Amazon se previzualizara la compañía de transportes.  Con SEUR sólo tengo problemas.",,246386.0,delivery_issue
+2911658,806024,True,Tue Nov 28 22:26:04 +0000 2017,@AmazonHelp Will do. Thank you!,,2911657.0,other
+2206122,645027,True,Thu Nov 09 23:53:45 +0000 2017,@AmazonHelp Amazon is working on safari for me but still not good chrome.,,2206121.0,technical_support
+1014259,359997,True,Sat Oct 14 15:38:51 +0000 2017,@AmazonHelp No information comes up on subtitles with that link https://t.co/UaS5PwRQob,1014261,1014258.0,technical_support
+877034,328205,True,Fri Oct 13 16:48:29 +0000 2017,"@AmazonHelp Nope
+It says in the Amazon website,the delivery guy came twice to deliver the pakage but nobody signed to collect the order
+Connect by email",,877033.0,delivery_issue
+292784,185732,True,Fri Oct 06 17:07:14 +0000 2017,@AmazonHelp Thank you.,,292783.0,other
+277218,182227,True,Sun Oct 15 02:43:51 +0000 2017,@AmazonHelp @115821 it's now been now than 12 hours and still no response. Please advise on what to do next???!!!,"277219,277220",277217.0,complaint_or_escalation
+1838972,551155,True,Wed Oct 18 07:10:07 +0000 2017,"@AmazonHelp I'm unable to return the unopened, unused product. At least help me with that !",,1838971.0,return_or_cancellation
+1972806,124282,True,Sun Nov 26 10:51:27 +0000 2017,@AmazonHelp Pas de soucis merci bien :),,1972805.0,other
+1899905,566201,True,Wed Oct 18 18:42:16 +0000 2017,"@AmazonHelp We can, but we have been filling in form since September. Is this ever going to be fixed?",1899906,1899904.0,technical_support
+2823925,621338,True,Mon Nov 27 09:11:52 +0000 2017,@AmazonHelp Yes. And paid for gift wrap.,2823927,2823924.0,payment_or_billing
+2343973,677885,True,Thu Nov 09 12:03:22 +0000 2017,"@AmazonHelp Nothing inside package's, have attached pics of outside info https://t.co/Z45G9XEwr4",2343972,2343974.0,product_issue
+1953340,220260,True,Thu Nov 16 09:20:21 +0000 2017,@AmazonHelp issue is with seller support not buyer support ............@115851,1953339,1953341.0,other
+111770,140828,True,Thu Nov 23 20:26:06 +0000 2017,@AmazonHelp Yes. Apparently it was signed for when no one was in and there’s a squiggle of a signature which isn’t mine. I asked for a call from amazon where the woman hung up on me and now I’m being told by a customer service chat that I might not get my parcel!,111767,111774.0,delivery_issue
+2826444,306170,True,Mon Nov 27 10:25:04 +0000 2017,@AmazonHelp Pas de souci !,2826443,2826445.0,other
+1735446,524014,True,Tue Oct 17 21:05:53 +0000 2017,"@AmazonHelp you need to start doing cs. 
+This isn't  +ve CE
+@132981 @209576 @118919 @4449 @524017 @54519 @54520",1735447,1735444.0,complaint_or_escalation
+317258,191712,True,Sat Oct 07 14:41:31 +0000 2017,@AmazonHelp Still can’t get onto my account via the app though - any ideas?,,317257.0,technical_support
+1735389,523127,True,Tue Oct 17 19:35:18 +0000 2017,@AmazonHelp Danke! Mit dem Kollegen telefoniert. Alles wird gut.,1735388,1735390.0,other
+2064366,404003,True,Wed Nov 08 09:48:55 +0000 2017,@AmazonHelp  https://t.co/PqNv9QrRi6,"2064367,2064368",2064365.0,other
+1061325,370604,True,Mon Oct 23 13:30:16 +0000 2017,@AmazonHelp Why? Your customer service call was awful what are you going to do any differently?! Ruined my day and woke up my newborn! Disgrace,1061327,1061324.0,complaint_or_escalation
+1229513,408377,True,Mon Oct 16 01:28:39 +0000 2017,@AmazonHelp Look at his hungry little face. https://t.co/KcvX5V2q9a,,1229512.0,other
+2633041,743445,True,Fri Nov 17 18:53:26 +0000 2017,"@AmazonHelp Sim, comprei alguns ebooks. Mas não comprei nada no valor de 1 real.",2633043,2633040.0,payment_or_billing
+683097,283020,True,Thu Nov 23 14:34:44 +0000 2017,"@AmazonHelp Whatever my order is - digital or not, I haven't received anything against my payment to you. Your siye mentioned doesn't help. Do needful or refund.","683099,683100",683096.0,refund
+2378631,685966,True,Sun Oct 29 08:00:15 +0000 2017,@AmazonHelp Ma mettetela almeno in lingua originale,,2378630.0,other
+2474816,707535,True,Wed Nov 15 13:42:30 +0000 2017,@AmazonHelp 2/2 but that's not the point - you could have easily shipped a replacement. But you didn't. And this is now part of a pattern - several packages in the last few months. When I sent an email to designated customer service email ID I was told we'll give you $5 for your pains. Wow!,,2474815.0,complaint_or_escalation
+1090978,377405,True,Sun Oct 15 04:00:46 +0000 2017,"@AmazonHelp i want to speak to cust care. No email, no chats, no tweets.
+Why i m unable to reach to cust care person?",1090980,1090977.0,complaint_or_escalation
+723662,293295,True,Wed Oct 11 03:41:11 +0000 2017,@AmazonHelp That would be AMZL US. didn't even stop.,723664,723661.0,delivery_issue
+2944334,759158,True,Wed Nov 29 15:08:19 +0000 2017,@AmazonHelp Wasnt even a #BlackFriday or #CyberMonday item @115830 just failed ..... then made things worse,,2944333.0,product_issue
+1731215,523085,True,Tue Nov 07 12:02:02 +0000 2017,@AmazonHelp I have amazon prime. I’ve got an email to confirm it will be delivered today. But I have just phoned CS who have said it will be here tomo.,1731222,1731213.0,delivery_issue
+2931312,390747,True,Wed Nov 29 08:42:10 +0000 2017,"@AmazonHelp Oui, on m'a dit ce que je savais déjà : mon colis n'a pas pu être livré hier, et il doit être livré aujourd'hui.",2931314,2931311.0,delivery_issue
+2457191,703826,True,Thu Nov 16 08:29:37 +0000 2017,@AmazonHelp Go &amp; find it your own way!! I am tired of messaging and calling you. I had onces left you my email in private conversation. #Noprime #NoAmazon,,2457188.0,complaint_or_escalation
+1075195,373687,True,Mon Oct 23 17:03:15 +0000 2017,@AmazonHelp Can I reduce the size and print multiple on one page?,1075197,1075194.0,technical_support
+1379291,441113,True,Tue Oct 31 08:32:48 +0000 2017,@AmazonHelp Hi someone India call centre (on a Dublin no?) called but it was about something unrelated.  Had no idea about the case numbers from before.,1379292,1379290.0,complaint_or_escalation
+38180,124295,True,Wed Nov 01 14:34:52 +0000 2017,"@AmazonHelp Em 18/10 recebi um e-mail falando que a entrega ia ser adiantada, pois os livros chegariam antes do previsto (...)",,38177.0,delivery_issue
+2803307,781962,True,Wed Nov 22 02:09:00 +0000 2017,@AmazonHelp Unos pares de zapatos. Dios los bendiga a ustedes y a @107613 https://t.co/reLDmWx8X7,,2803306.0,product_availability
+1215541,405229,True,Wed Oct 25 17:59:26 +0000 2017,@AmazonHelp Thanks I did that...received yet another email asking for my #Aadhaar !?! I mean..I don't..even..,1215543,1215540.0,payment_or_billing
+96711,137105,True,Thu Nov 30 16:32:40 +0000 2017,"@AmazonHelp But I don't want a refund, I want a replacement. Is that not possible? I don't see that option. The TV doesn't seem to be available right now, and even if it was it wouldn't be the same price.",96709,96712.0,product_availability
+133787,146136,True,Fri Nov 24 08:35:07 +0000 2017,@AmazonHelp She said fulfilled by Amazon prime,133790,133786.0,prime_membership
+155255,151596,True,Fri Nov 24 23:20:12 +0000 2017,"@AmazonHelp Dice Amazon prime memb, por $212 pero yo la pagué por un año y caduca el 8 de junio. En serv a cliente me dijeron que debe ser que pedí un producto doble, pero no coinciden las cantidades y que entonces lo vea con mi banco😐",155256,155254.0,payment_or_billing
+179204,158246,True,Wed Oct 04 14:00:46 +0000 2017,@AmazonHelp I used the link in your tweet - lead me to a log in page - I CANT LOG IN - is that loud enough?,179206,179203.0,technical_support
+179445,158269,True,Fri Oct 06 09:37:51 +0000 2017,"@AmazonHelp So, it never arrived, I've got my refund. Any chance of an answer to my original question: Why do you use Hermes for Prime deliveries?",,179443.0,prime_membership
+191778,172826,True,Thu Oct 05 03:45:25 +0000 2017,@AmazonHelp @161066 you are blantantly lying just as ea did if we didnt preorder before oct 1st we dont get early beta so i hope someone sues the shit out of u,,191777.0,product_availability
+283944,183632,True,Fri Oct 06 13:12:07 +0000 2017,"@AmazonHelp Remember this? The product got damaged in transit &amp; was sent back. Jency, chat exec, offered a replacement only after an hour long spat. 1/3",283947,283942.0,product_issue
+461277,224601,True,Fri Dec 01 23:59:29 +0000 2017,"@AmazonHelp Now in your app, just noticed a little inconsistency. Scratch post says now expected later, I tap on it, it says arriving today by 8PM. Just helping you keep your app awesome n consistent by sharing what I see. ❤️ https://t.co/wtByHb5oOl",,461276.0,technical_support
+461296,209029,True,Fri Dec 01 21:40:00 +0000 2017,@AmazonHelp UPS has no idea where this package is. I need your help to cancel this order as soon as possible.,461298,461295.0,return_or_cancellation
+215207,167129,True,Thu Oct 05 01:04:40 +0000 2017,@AmazonHelp Spoke to rep and she can only replace 3 parts and refund the other parts. Disappointing because I was told it required a signature.,,215205.0,refund
+748750,298990,True,Wed Oct 11 17:05:05 +0000 2017,@AmazonHelp Just sending the link wont hekp..at least have the courtsey to call,748749,748751.0,complaint_or_escalation
+755037,300482,True,Wed Oct 11 18:17:04 +0000 2017,"@AmazonHelp No and I'm not even going to, I don't even want the product anymore. I'll just request a refund/return if it ever does arrive.",755039,755036.0,refund
+836164,215880,True,Fri Oct 13 09:15:01 +0000 2017,@AmazonHelp you support team is helpful. The technical support team is busy and I got defective mobile. Amazon is not bothered get refund request.,"836165,836166",836162.0,product_issue
+836478,319110,True,Sat Oct 14 10:02:14 +0000 2017,@AmazonHelp Ordered a phone from #amazonprime.delivery was urgent as it was someone's gift. Failed to deliver. And delivery guy marks it delivered,,836476.0,delivery_issue
+897580,333161,True,Tue Oct 24 03:28:40 +0000 2017,@AmazonHelp Fyi: UPS finally picked up today. Now I need to process a refund for shipping from Amazon.,,897579.0,refund
+954298,346431,True,Sat Oct 14 02:32:41 +0000 2017,"@AmazonHelp @341932 Amazing, no wonder your stock is near all-time highs",,954297.0,other
+1049361,368015,True,Mon Oct 23 07:48:57 +0000 2017,"@AmazonHelp Que se entrega hoy. Lo que molesta es pagar PRIME para entrega 1 día, lo compre el Miércoles 18 a las 21.00h y no ha llegado.",1049363,1049360.0,delivery_issue
+1060504,370383,True,Sat Oct 14 23:33:04 +0000 2017,"@AmazonHelp talked to an employee I was told I was getting an instant refund via amazon balance, and an additional $25 gift card code. Any help?",1060505,1060503.0,refund
+1108270,381559,True,Wed Nov 08 15:16:28 +0000 2017,"@AmazonHelp Sí, hace una semana, aunque entonces también estaba temporalmente sin stock","1108269,1108271",1108272.0,product_availability
+1137907,388022,True,Sun Oct 15 16:24:17 +0000 2017,"@AmazonHelp I checked the book 2 in the Kindle ebook section. It's available in paperback, hardcopy, audio CD and mass market paperback but not ebook.",1137908,1137906.0,product_availability
+1240427,120934,True,Mon Nov 13 07:12:03 +0000 2017,@AmazonHelp I return an order..your guy collected it today but didn't give any acknowledgement receipt..is it fine??,1240425,1240429.0,return_or_cancellation
+1257467,414665,True,Thu Oct 26 07:36:16 +0000 2017,@AmazonHelp It’s been dispatched but it still doesn’t explain why my order was prioritised last,1257465,1257468.0,order_status
+1320490,428320,True,Sun Oct 29 10:42:47 +0000 2017,"@AmazonHelp Hola buenas, hable con una chica de atención al cliente que me envió un link a mi correo para solucionarlo y pode reclamar pero no puedo acceder a tal correo. ¿Qué puedo hacer? Gracias",1320491,1320489.0,technical_support
+1325489,222683,True,Fri Oct 27 11:33:43 +0000 2017,@AmazonHelp Not sure I follow ?? The prime deliveries should be next day so I am asking do you deliver on Saturdays ? Thank you,1325491,1325488.0,delivery_issue
+1380270,441304,True,Sun Oct 29 01:46:26 +0000 2017,"@AmazonHelp I have placed 3 orders none of them have delivered yet. I had to cancel it after waiting for a months
+See Order#__credit_card__","1380272,1380273",1380269.0,return_or_cancellation
+1615579,164808,True,Mon Nov 06 12:26:15 +0000 2017,@AmazonHelp It's more than 12 hrs nd u hv not resolved my issue! You all are frauds and criminals! Why are not returning my money?,1615582,1615577.0,refund
+1763213,530477,True,Thu Nov 09 07:31:50 +0000 2017,@AmazonHelp Additionally I’ve had 8 hours of ‘chat’ over the last 2 days and got nowhere except told to claim through @530478 which I think is unacceptable when you took my money and sent me broken stuff,,1763212.0,product_issue
+1941523,577368,True,Sun Oct 29 23:38:56 +0000 2017,@AmazonHelp I demanded a refund for one because I hadn’t received the item and I’m traveling so I can’t get it before I leave. I reordered,,1941519.0,refund
+2084551,616481,True,Wed Nov 08 09:47:01 +0000 2017,@AmazonHelp Can’t really keep you posted as I’m at work. Is there a possible way to add a delivery time window to my order?,2084550,2084552.0,delivery_issue
+2236236,652172,True,Fri Nov 10 17:40:31 +0000 2017,@AmazonHelp Just “Not yet dispatched. We'll e-mail you when we have a delivery date”,2236235,2236237.0,order_status
+2394441,689332,True,Tue Nov 14 12:11:51 +0000 2017,@AmazonHelp I contacted your customer service team. Even they are unable to cancel the order.,2394443,2394440.0,return_or_cancellation
+2781951,776899,True,Tue Nov 21 17:32:10 +0000 2017,"@AmazonHelp Looking to hit ""Login &amp; security"" page, and ""Sign In Using Alternative Factors of Authentication"" is sending me to broken link https://t.co/3yS91cUz6M.  Support thinks I should get an email when encountering ""Amazon Web Services Sign In With Authentication Device"" page :facepalm:",2781953,2781950.0,technical_support
+2791952,779205,True,Tue Nov 21 20:16:00 +0000 2017,@AmazonHelp There is no order. There is absolutely no reason for them to call me. I’ve said I didn’t ask for call back but so far in the last 30 minutes they called me 10 times,2791949,2791955.0,complaint_or_escalation
+2801410,781504,True,Wed Nov 22 01:04:04 +0000 2017,"@AmazonHelp I already sent an email thourgh your app. Please, I need this package!",2801412,2801409.0,delivery_issue
+2927048,809827,True,Wed Nov 29 04:28:45 +0000 2017,@AmazonHelp Apparently it’s coming tomorrow now. So why do I pay so much for prime if my packages are damaged and constantly delayed. Ups and that other random carrier are the worst. Or things just never come and I get no support from the call line so I don’t bother.,,2927047.0,delivery_issue
