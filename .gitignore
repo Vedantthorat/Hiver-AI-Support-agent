@@ -1,0 +1,33 @@
+# Environment variables / secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw dataset
+data/raw/twcs/twcs.csv
+
+# Generated / intermediate processed data
+data/processed/*
+
+# Keep directory structure
+!data/processed/.gitkeep
+
+# Keep golden evaluation data
+!data/golden/
+!data/golden/*.csv
+
+# Keep results
+!results/
+!results/*.csv
+
+# OS / editor files
+.DS_Store
+.vscode/

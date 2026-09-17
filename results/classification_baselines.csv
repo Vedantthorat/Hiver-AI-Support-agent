@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,weighted_f1
+Majority baseline,0.245,,
+TF-IDF + Logistic Regression,0.38,0.11,
+Semantic Prototype Classifier,0.545,0.404,0.528

@@ -1,0 +1,24 @@
+tweet_id,author_id,created_at,text,final_intent
+2470126,706559,Wed Nov 15 11:08:39 +0000 2017,@AmazonHelp Something was supposed to be delivered today but it says on the order page ‘arrival at incorrect carrier facility’ and to ‘check back tuesday’ (yesterday),delivery_issue
+1705395,516907,Mon Nov 06 22:45:42 +0000 2017,@AmazonHelp Thank you 🙌🏻,other
+2957011,816249,Wed Nov 29 19:36:39 +0000 2017,@AmazonHelp C’est Amazon Logistics,other
+55058,128483,Wed Nov 01 20:08:21 +0000 2017,"@AmazonHelp yes I have been through all of the steps. I will check with nighbours further down the street tomorrow, but no notification of delivery 1/2",delivery_issue
+409338,152461,Mon Oct 16 07:33:17 +0000 2017,"@AmazonHelp Well you couldn't resolve the 'issue'"" your colleagues messed me around and even your superiors did. I genuinely feel  worthless to you. :(",complaint_or_escalation
+388845,122868,Mon Oct 09 15:36:04 +0000 2017,@AmazonHelp Sick of ur response.No need of it.,complaint_or_escalation
+182983,159037,Fri Sep 29 19:15:52 +0000 2017,@AmazonHelp What is the status still no response,order_status
+1450031,456475,Thu Nov 02 17:15:21 +0000 2017,@AmazonHelp No. It was a book preorder for @129184 ‘Secret for the Mad’,product_availability
+2451668,702526,Sun Oct 29 17:53:40 +0000 2017,@AmazonHelp It was fulfilled by Amazon with Prime Shipping.,order_status
+613942,219031,Sat Nov 25 17:15:55 +0000 2017,@AmazonHelp I am No longer a prime member,prime_membership
+962030,348283,Sun Oct 22 03:17:45 +0000 2017,@AmazonHelp Bt then u r refunding only 100rs if customer is self returning.  Plz return full payment according to bill...unfair to customers,refund
+1125052,385283,Sat Nov 25 23:16:28 +0000 2017,@AmazonHelp submitted book to @14835 on 11/16  - still on available on amazon.,product_availability
+230627,170933,Mon Oct 16 14:49:48 +0000 2017,@AmazonHelp What an amazing service still not credited my account for the broken cups,refund
+1262615,190898,Thu Oct 26 11:14:14 +0000 2017,@AmazonHelp 21 Sep ko delivery hui 2-3 me return apply kia. Aaj 26oct ho gayi h. Ab bol do tum ki out of date ho gya. https://t.co/8ED5lrVmUq,return_or_cancellation
+1735453,524014,Tue Oct 17 20:52:50 +0000 2017,@AmazonHelp This was a lightening deal...I will have to pay more for a reorder https://t.co/RvqEcIyVDd,payment_or_billing
+2905096,804497,Wed Nov 29 10:09:27 +0000 2017,"@AmazonHelp Comment expliquez-vous que sur l'étiquette du colis il soit inscrit ""weight : 2kg"" alors que le pack Dron Mavic Pro Combo pèse 4,4 kg... ?
+Merci de votre aide.",product_issue
+1950127,579254,Wed Oct 18 20:28:49 +0000 2017,@AmazonHelp Thank you but I’m still confused. Is the home hub the same thing that’s controlling my home in my Amazon Eco (bought in September)?,technical_support
+999162,148568,Sun Oct 22 17:30:05 +0000 2017,"@AmazonHelp Second thing is as u told MSOP not guaranteed for COD method , i reffered to your COD T&amp;C and did not find any such terms (1/2) https://t.co/XHeWmk5Ns2",payment_or_billing
+1157260,202707,Sun Oct 15 18:19:29 +0000 2017,@AmazonHelp Your apps consistently fail. I have to reset often. It’s right next to the router.  Just tired of it.,technical_support
+1710145,518120,Thu Nov 09 10:00:34 +0000 2017,@AmazonHelp You are fooling people by sending marble in place of mobile and not responding to customers https://t.co/CSLmCe6iRE,product_issue
+457741,223703,Fri Dec 01 00:36:45 +0000 2017,@AmazonHelp They didn’t care that I was a prime member,prime_membership
+317879,191859,Sat Oct 07 11:02:38 +0000 2017,"@AmazonHelp I'll print one in the office on Monday. I can first select the locker place and then print the label, right?",return_or_cancellation

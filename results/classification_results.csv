@@ -1,0 +1,5 @@
+model,accuracy,macro_f1
+Majority baseline,0.245,
+TF-IDF + Logistic Regression,0.38,0.11
+Balanced TF-IDF + Logistic Regression,0.38,0.11
+Semantic KNN (135 labels),0.49,0.27
