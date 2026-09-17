@@ -32,3 +32,14 @@ Escalation Decision
        |
        v
 Support Draft + Decision
+
+
+## Quick Reproduction
+
+The headline intent-classification result can be reproduced
+without downloading the full Twitter dataset.
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
