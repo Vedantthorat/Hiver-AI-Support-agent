@@ -1,3 +1,44 @@
+## Golden Evaluation Set: Sampling and Labeling
+
+A 200-example golden evaluation set was created from the
+AmazonHelp customer-message subset.
+
+The examples were sampled randomly using `random_state=42`.
+The final intent taxonomy was defined after inspecting the
+sample and identifying recurring customer-support issue types.
+
+Each example was manually assigned one primary intent from the
+final 11-intent taxonomy:
+
+- delivery_issue
+- order_status
+- refund
+- return_or_cancellation
+- product_issue
+- technical_support
+- prime_membership
+- payment_or_billing
+- product_availability
+- complaint_or_escalation
+- other
+
+Ambiguous, conversational, or out-of-scope messages were assigned
+to `other` when no specific support intent could be established
+from the message.
+
+During taxonomy refinement, closely related exploratory categories
+were merged. For example, delivery-date-change messages were merged
+into `delivery_issue`, while payment/account and price/billing
+messages were merged into `payment_or_billing`.
+
+The 200 examples were retained as the golden evaluation set.
+The prototype classifier was trained on a separate 135-example
+training subset whose tweet IDs do not overlap with the golden set.
+
+A limitation is that the taxonomy itself was developed by inspecting
+the golden sample. Therefore, the benchmark is exploratory rather
+than a fully independent test of a taxonomy fixed before sampling.
+
 ## Top 5 Failure Modes
 
 The prototype intent classifier achieved 54.5% accuracy and
@@ -240,3 +281,36 @@ Customer Message
        |
        v
 Customer-support draft
+
+
+## Next Week
+
+The next iteration would focus on improving reliability and making the
+evaluation more representative of production use.
+
+1. Freeze the intent taxonomy and create a new independently sampled
+   and manually labelled test set.
+
+2. Increase the number of examples for low-frequency intents so that
+   per-intent metrics are more reliable.
+
+3. Improve classification of short and context-dependent messages by
+   incorporating conversation history rather than classifying each
+   tweet independently.
+
+4. Improve multilingual intent handling, especially for delivery and
+   escalation messages.
+
+5. Evaluate retrieval using human relevance judgements instead of
+   relying only on exact historical-response matching.
+
+6. Expand the human reply-quality evaluation beyond the current
+   4-example pilot and measure agreement with the LLM judge on a
+   larger sample.
+
+7. Add stronger safeguards for unsupported dates, times, order
+   information, policies, and other case-specific details.
+
+8. Test the complete system on longer multi-turn conversations and
+   investigate how conversation context affects intent classification,
+   retrieval, and escalation decisions.
